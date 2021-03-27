@@ -1,2 +1,4 @@
-# gitReloaded
-[Tutorial] Git Class Part 2 (Branches, Pull Requests, and Merging)
+# GIT RELOADED
+## GIT CLASS PART II
+### Branches, Pull Requests and Merging
+
